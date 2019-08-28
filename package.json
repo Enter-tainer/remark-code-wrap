@@ -1,0 +1,22 @@
+{
+  "name": "remark-code-wrap",
+  "version": "1.0.0",
+  "description": "wrap code automatically into note block",
+  "main": "index.js",
+  "dependencies": {
+    "remark": "^11.0.1",
+    "remark-details": "^1.7.0",
+    "unist-util-visit-parents": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remark",
+    "oi-wiki"
+  ],
+  "author": "Margatroid",
+  "license": "ISC",
+  "repository": "https://github.com/Enter-tainer/remark-code-wrap"
+}
