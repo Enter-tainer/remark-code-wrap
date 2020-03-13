@@ -1,11 +1,11 @@
 {
   "name": "remark-code-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap code automatically into note block",
   "main": "index.js",
   "dependencies": {
     "remark": "^11.0.1",
-    "remark-details": "^1.7.0",
+    "remark-details": "^2.0.0",
     "unist-util-visit-parents": "^3.0.0"
   },
   "devDependencies": {},
